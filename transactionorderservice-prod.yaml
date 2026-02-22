@@ -1,0 +1,4 @@
+spring:
+  mongodb:
+    uri: mongodb+srv://DbUser:India123@cluster1.bz3paly.mongodb.net
+    database: TransactionOrders
