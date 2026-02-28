@@ -2,7 +2,7 @@ spring:
   mongodb:
     uri: mongodb+srv://DbUser:India123@cluster1.bz3paly.mongodb.net
     database: TransactionOrders
- datasource:
+  datasource:
     username: postgres
     password: India123
-    url: postgresql://postgres:India123@host:port/transactionorder
+    url: postgresql://postgres:India123@host:port/transactionorder 
