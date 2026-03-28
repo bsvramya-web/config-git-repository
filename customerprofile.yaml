@@ -1,7 +1,7 @@
 spring:
   application:
     name: customerprofile
-    management:
+management:
   endpoints:
     web:
       exposure:
