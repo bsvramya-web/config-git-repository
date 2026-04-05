@@ -6,3 +6,5 @@ spring:
     username: postgres
     password: India123
     url: jdbc:postgresql://localhost:5435/transactionorder 
+customerprofile:
+  url: http://localhost:9080/api/v1/customerprofiles
